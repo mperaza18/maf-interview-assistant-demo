@@ -1,0 +1,24 @@
+Jane Doe
+Seattle, WA | jane.doe@email.com | github.com/janedoe
+
+SUMMARY
+Backend-focused software engineer with 6+ years building cloud services in C#/.NET and Azure. Strong in APIs, distributed systems fundamentals, and observability.
+
+EXPERIENCE
+Senior Software Engineer — Contoso (2022–Present)
+- Built event-driven microservices on Azure using .NET, Azure Service Bus, and Cosmos DB.
+- Reduced p95 latency 45% by redesigning caching and async I/O patterns.
+- Led on-call rotation improvements: dashboards, SLOs, runbooks.
+
+Software Engineer — Fabrikam (2019–2022)
+- Implemented payments API (C#, ASP.NET Core) with idempotency + audit logging.
+- Collaborated with product on risk controls and fraud signals.
+
+EDUCATION
+B.S. Computer Science
+
+SKILLS
+C#, .NET, ASP.NET Core, Azure, SQL, Cosmos DB, Service Bus, Redis, CI/CD, Observability, Distributed Systems
+
+PROJECTS
+- Open-source: small library for resilient HTTP client policies.
