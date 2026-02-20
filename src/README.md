@@ -56,13 +56,13 @@ Optional:
 ### Simple (agents-only) pipeline
 
 ```bash
-dotnet run -- --mode simple --resume assets/resumes/jane_doe.txt
+dotnet run --mode simple --resume ../../assets/resumes/jane_doe.txt
 ```
 
 ### Workflows pipeline (agent graph + approval gate)
 
 ```bash
-dotnet run -- --mode workflow --resume assets/resumes/jane_doe.txt
+dotnet run --mode workflow --resume ../../assets/resumes/jane_doe.txt
 ```
 
 ---

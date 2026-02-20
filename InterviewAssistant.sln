@@ -4,8 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
+	ProjectSection(SolutionItems) = preProject
+		src\README.md = src\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewAssistant", "src\InterviewAssistant\InterviewAssistant.csproj", "{ECF637E0-3FC0-4EBE-8144-5CBCCA929434}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{A39AF62D-D643-429F-9221-B8C1FFAEFE58}"
+	ProjectSection(SolutionItems) = preProject
+		assets\.DS_Store = assets\.DS_Store
+		assets\resumes\jane_doe.txt = assets\resumes\jane_doe.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
