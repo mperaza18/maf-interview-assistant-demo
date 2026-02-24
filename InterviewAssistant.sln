@@ -12,8 +12,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewAssistant", "src\I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{A39AF62D-D643-429F-9221-B8C1FFAEFE58}"
 	ProjectSection(SolutionItems) = preProject
-		assets\.DS_Store = assets\.DS_Store
 		assets\resumes\jane_doe.txt = assets\resumes\jane_doe.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{7D6E68C1-381A-4912-813D-3987ECB4A679}"
+	ProjectSection(SolutionItems) = preProject
+		.github\COPILOT_INSTRUCTIONS.md = .github\COPILOT_INSTRUCTIONS.md
 	EndProjectSection
 EndProject
 Global
