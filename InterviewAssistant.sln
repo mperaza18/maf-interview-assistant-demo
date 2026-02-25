@@ -23,6 +23,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{118DE89F-BC9E-416B-98D8-C42B1F1DF06B}"
 	ProjectSection(SolutionItems) = preProject
 		Agents.md = Agents.md
+		EXPLANATION_PROGRAM.md = EXPLANATION_PROGRAM.md
 	EndProjectSection
 EndProject
 Global
@@ -53,5 +54,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{ECF637E0-3FC0-4EBE-8144-5CBCCA929434} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2D21F3-266B-4D77-8533-28E04E3CFF62}
 	EndGlobalSection
 EndGlobal
