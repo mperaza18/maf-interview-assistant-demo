@@ -20,6 +20,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{7D6E
 		.github\COPILOT_INSTRUCTIONS.md = .github\COPILOT_INSTRUCTIONS.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{118DE89F-BC9E-416B-98D8-C42B1F1DF06B}"
+	ProjectSection(SolutionItems) = preProject
+		Agents.md = Agents.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
